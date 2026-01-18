@@ -227,12 +227,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Important**: This software is provided for research and educational purposes only. The AI-generated content and legal research assistance do not constitute legal advice. Users should always consult with qualified legal professionals for specific legal guidance and representation.
 
-## 🆘 Support
-
-- **Documentation**: [docs/](docs/)
-- **Issues**: [GitHub Issues](https://github.com/your-org/ai-legal-precedent-finder/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/your-org/ai-legal-precedent-finder/discussions)
-- **Email**: support@ai-legal-precedent-finder.com
 
 ## 🙏 Acknowledgments
 
@@ -244,3 +238,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **AI Legal Precedent Finder** - Transforming legal research with artificial intelligence.
+---
+Built by **Derril Filemon**
